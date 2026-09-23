@@ -58,3 +58,9 @@ if __name__ == "__main__":
     sol = Solution()
 
     print(sol.topKFrequent([1, 1, 1, 2, 2, 3], 2))
+
+"""
+Time: O(n log k)
+
+Space: O(n) 
+"""
